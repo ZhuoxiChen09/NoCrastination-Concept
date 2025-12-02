@@ -34,10 +34,11 @@ The design integrates several research-backed principles:
 
 ## 🖥️ Early UI Concept Samples
 Located in this repository:
-- `Sign up Page.png`
-- `Verification Page.png`
-- `Linkedin Banner.png`
-- `Group 36700.png`
+
+- [Sign up Page](./Sign%20up%20Page.png)
+- [Verification Page](./Verification%20Page.png)
+- [LinkedIn Banner](./Linkedin%20Banner.png)
+- [Group Concept Diagram](./Group%2036700.png)
 
 These represent early UI exploration and product identity aligned with the app’s cognitive-science goals.
 
