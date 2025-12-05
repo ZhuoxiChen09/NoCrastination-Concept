@@ -7,21 +7,21 @@ The goal of NoCrastination is to reduce decision fatigue, support focused work, 
 
 ---
 
-## 📌 Project Overview
-NoCrastination is built on the idea that productivity is shaped by **how the mind manages attention, memory load, and motivation**, not just task scheduling.
+## Overview
+
+NoCrastination is built on the principle that productivity is shaped by **how the mind manages attention, memory load, and motivation**, not just task scheduling.
 
 This repository documents early conceptual work, including:
-- High-level system architecture  
-- Initial UI screens (Sign Up, Verification, branding)  
-- User flow concepts  
-- Cognitive science principles influencing the design  
-- Visual identity and product direction  
+- System architecture and design principles
+- User interface screens and flows
+- Cognitive science principles integrated into the design
+- Visual identity and product direction
 
-This is a **concept development repository**, not a finished application.
+This is a **concept repository**, not a production application.
 
 ---
 
-## 🧠 Cognitive Principles Behind the Concept
+## Cognitive Principles Behind the Concept
 The design integrates several research-backed principles:
 
 - **Cognitive Offloading** — reducing working-memory strain through external systems  
@@ -32,7 +32,7 @@ The design integrates several research-backed principles:
 
 ---
 
-## 🖥️ Early UI Concept Samples
+## Early UI Concept Samples
 Located in this repository:
 
 - [Sign up Page](./Sign%20up%20Page.png)
@@ -44,4 +44,4 @@ These represent early UI exploration and product identity aligned with the app�
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
