@@ -1,47 +1,27 @@
-# NoCrastination — Cognitive-Science-Based Productivity System (Concept Design)
+# NoCrastination — concept materials
 
-This repository showcases the **concept design**, early UI structure, and system thinking behind *NoCrastination* —  
-a productivity assistant inspired by **cognitive science**, **behavioral psychology**, and **human-centered design**.
+**NoCrastination** is positioned as an intelligent productivity app: tagline **“Your Mind, On Track”**, with onboarding around **Log in** / **Sign up** and email verification in account recovery flows.
 
-The goal of NoCrastination is to reduce decision fatigue, support focused work, and help users build sustainable productivity habits through intelligent task planning and distraction control.
+This folder is self-contained pitch and design collateral. It is not tied to other repositories unless you add cross-links yourself.
 
----
+![Banner — Your Mind, On Track](Linkedin%20Banner.png)
 
-## Overview
+## What’s in this folder
 
-NoCrastination is built on the principle that productivity is shaped by **how the mind manages attention, memory load, and motivation**, not just task scheduling.
+| File | What it is |
+|------|------------|
+| [NoCrastination Presentation.pdf](NoCrastination%20Presentation.pdf) | Slide deck (pitch / overview). |
+| [Launchpad Application.pdf](Launchpad%20Application.pdf) | Written application (e.g. accelerator or program submission). |
+| [Linkedin Banner.png](Linkedin%20Banner.png) | LinkedIn-style header: slogan *Your Mind, On Track* and brain → target mark on navy. |
+| [Group 36700.png](Group%2036700.png) | Mobile **welcome / splash** mockup: logo, *NoCrastination*, tagline (*stay on track*), Log in & Sign up. |
+| [Sign up Page.png](Sign%20up%20Page.png) | Mobile **sign-up** screen mockup: email / password, social register (Facebook, Google, Apple). |
+| [Verification Page.png](Verification%20Page.png) | Mobile **email verification** mockup (forgot-password flow): 4-digit OTP, resend, verify. |
+| `README.md` | This index (keeps filenames aligned with what’s on disk). |
 
-This repository documents early conceptual work, including:
-- System architecture and design principles
-- User interface screens and flows
-- Cognitive science principles integrated into the design
-- Visual identity and product direction
+## Paths
 
-This is a **concept repository**, not a production application.
+All links above are **relative to this file** so they work in GitHub, VS Code, and local clones without extra configuration.
 
----
+## Keeping things in sync
 
-## Cognitive Principles Behind the Concept
-The design integrates several research-backed principles:
-
-- **Cognitive Offloading** — reducing working-memory strain through external systems  
-- **Attention Guidance** — surfacing key tasks at the right time  
-- **Task Chunking** — breaking complex tasks into smaller actionable steps  
-- **Temporal Motivation Theory** — supporting motivation for long-term goals  
-- **Low-Friction UX** — simple flows to reduce decision barriers  
-
----
-
-## Early UI Concept Samples
-Located in this repository:
-
-- [Sign up Page](./Sign%20up%20Page.png)
-- [Verification Page](./Verification%20Page.png)
-- [LinkedIn Banner](./Linkedin%20Banner.png)
-- [Group Concept Diagram](./Group%2036700.png)
-
-These represent early UI exploration and product identity aligned with the app’s cognitive-science goals.
-
----
-
-## Repository Structure
+When copy or UI changes, export new PNGs/PDFs into this folder and adjust the table if filenames change. Consider renaming `Group 36700.png` to something descriptive (e.g. `welcome-splash.png`) in Figma/export settings so the repo stays easy to scan.
